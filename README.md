@@ -1,4 +1,4 @@
-# Sam
+<!--# Sam-->
 
 <a href="https://github.com/Bounty38">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bounty38&show_icons=true&theme=tokyonight&locale=en&hide=stars" />
