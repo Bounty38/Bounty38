@@ -66,6 +66,7 @@
 - [![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://paypal.me/SiberianSam) 
 
 ---
+
 <!--
 **Bounty38/Bounty38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
