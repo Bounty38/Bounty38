@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bounty38&theme=tokyonight&locale=en" />
 </a>
 <a href="https://wakatime.com/@Bounty">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Bounty38&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bounty&show_icons=true&theme=tokyonight" />
 </a> 
 
 <!--
