@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/Bounty38">
-    <img src="https://github.com/Bounty38/Bounty38/raw/main/github-banner.gif" alt="GitHub Banner" /> <!-- Meant to replace it with banner, but couldn't think of anything =D -->
+    <img src="https://lanyard-profile-readme.vercel.app/api/264424092159967233" alt="GitHub Banner" /> <!-- Meant to replace it with banner, but couldn't think of anything =D -->
   </a>
 </p>
 
