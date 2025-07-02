@@ -37,7 +37,7 @@
   </a>
 </p>
 <p align="center" style="margin-top: 20px;">
-  <a href="https://github.com/Bounty38">
+  <a href="https://discord.com/users/264424092159967233">
     <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Bounty38&show_icons=true&theme=radical&locale=en&hide=stars" alt="GitHub Stats" />
   </a>
 </p>
