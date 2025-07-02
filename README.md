@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Bounty38">
+  <a href="https://discord.com/users/264424092159967233">
     <img src="https://lanyard-profile-readme.vercel.app/api/264424092159967233" alt="GitHub Banner" /> <!-- Meant to replace it with banner, but couldn't think of anything =D -->
   </a>
 </p>
@@ -37,7 +37,7 @@
   </a>
 </p>
 <p align="center" style="margin-top: 20px;">
-  <a href="https://discord.com/users/264424092159967233">
+  <a href="https://github.com/Bounty38">
     <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Bounty38&show_icons=true&theme=radical&locale=en&hide=stars" alt="GitHub Stats" />
   </a>
 </p>
