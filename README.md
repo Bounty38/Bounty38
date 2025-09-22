@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="just a random quote not a link =D">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-  </a>
-</p>
-
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">CS Student</h3>
 
