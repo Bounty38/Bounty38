@@ -27,7 +27,7 @@
 </p>
 <p align="center">
   <a href="https://wakatime.com/@Bounty">
-    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bounty&show_icons=true&theme=radical" alt="WakaTime Stats" />
+    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bounty&show_icons=true&theme=radical&langs_count=15" alt="WakaTime Stats" />
   </a>
 </p>
 <p align="center" style="margin-top: 20px;">
