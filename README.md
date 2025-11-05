@@ -20,21 +20,21 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/Bounty38">
     <img align="center" width="48%" src="https://github-contributor-stats.vercel.app/api?username=Bounty38&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="repos" />
   </a>
-</p>
+</p>-->
 <p align="center">
   <a href="https://wakatime.com/@Bounty">
     <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bounty&show_icons=true&theme=radical&langs_count=15" alt="WakaTime Stats" />
   </a>
 </p>
-<p align="center" style="margin-top: 20px;">
+<!--<p align="center" style="margin-top: 20px;">
   <a href="https://github.com/Bounty38">
     <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Bounty38&show_icons=true&theme=radical&locale=en&hide=stars" alt="GitHub Stats" />
   </a>
-</p>
+</p>-->
 <!--
 <p align="center" style="margin-top: 20px;">
   <a href="https://github.com/Bounty38">
